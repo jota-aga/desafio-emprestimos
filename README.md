@@ -1,0 +1,1 @@
+Achei interessante resolver esse desafio, pois, apesar de simples, me desafiou para integrar a lógica dos empréstimos junto com o spring. Gostei do meu resultado, sinto que tenho muito o que evoluir, mas tô no caminho certo. Segue o link do desafio: https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md
